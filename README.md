@@ -5,7 +5,7 @@
 This is a recreation of a simple Register File and Adder datapath to get a farmiliarity with the eFabless process for more advanced projects down the line. This is equivalent to a datapath in CprE 3810's lab 2 at Iowa State University.
 
 Clock is controlled by la_data_in[64] when la_oenb[64] = 1
-Clock is controlled by la_data_in[65] when la_oenb[65] = 1
+Reset is controlled by la_data_in[65] when la_oenb[65] = 1
 
 Inputs:
 ALUSrc Select = la_data_in[32]
