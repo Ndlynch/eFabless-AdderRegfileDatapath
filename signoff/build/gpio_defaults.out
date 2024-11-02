@@ -1,0 +1,80 @@
+/home/nick/sdmay25-28/caravel/scripts/gen_gpio_defaults.py:282: SyntaxWarning: invalid escape sequence '\['
+  defrex = re.compile('[ \t]*assign[ \t]+gpio_defaults\[([0-9]+)\]')
+Step 1:  Create new cells for new GPIO default vectors.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1803.mag already exists and does not need to be generated.
+Creating new gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1803.v
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1803.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1803.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_0403.mag already exists and does not need to be generated.
+Creating new gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_0403.v
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_0801.mag already exists and does not need to be generated.
+Creating new gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_0801.v
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_0403.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_0403.v already exists and does not need to be generated.
+No configuration specified for GPIO 5; skipping.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Creating new gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Layout file /home/nick/sdmay25-28/mag/gpio_defaults_block_1808.mag already exists and does not need to be generated.
+Gate-level verilog file /home/nick/sdmay25-28/verilog/gl/gpio_defaults_block_1808.v already exists and does not need to be generated.
+Step 2:  Modify top-level layouts to use the specified defaults.
+Done.
